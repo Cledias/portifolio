@@ -1,0 +1,39 @@
+body {
+    position: relative;
+    background-image: url("https://mocah.org/thumbs/528868-Laptop-Room.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    
+   
+}
+h1 {
+    font-family: "Brush Script MT", cursive;
+    color: rgb(0, 0, 0);
+    text-align: center;
+    font-size: 60px; 
+}
+
+p {
+    font-family: Copperplate, Papyrus, fantasy;
+    color: white;
+    max-width: 100%;
+    padding: 0 15%;
+    text-align: center;
+    font-size: 1.5em;
+    margin: 0px 40px 50px 15px;
+  
+
+}
+
+.profile-picture {
+    max-width: 160px;
+    width: auto;
+    height: auto;
+    top: 10px;
+    position: absolute; 
+    border-radius: 80px;
+    border-style: solid;
+    left: 40px;
+  }
+
